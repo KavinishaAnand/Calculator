@@ -32,6 +32,7 @@ function Calculator() {
         Calculate
       </button>
       <h2>Result: {result}</h2>
+      <h5>kav isha</h5>
     </div>
   );
 }
